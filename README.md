@@ -11,6 +11,8 @@ Esse é meu currículo que tentará ser atualizado.
 
 ## Informações escolares
 
+Estudei toda minha vida de criança e adolescente em uma escola particular ([SEPAM]()), em Ponta Grossa-PR, e isso facilitou e muito minha entrada nas faculdades que fiz. E até por isso acredito em ensinar com o mesmo conteúdo de alta qualidade as pessoas que não possuem o dinheiro para pagar por esse conhecimento.
+
 ### Ensino Fundamental
 
 ### Ensino Médio
